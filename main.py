@@ -7,7 +7,7 @@ import questionary
 from pytube import YouTube
 from progress.bar import Bar
 
-# general shit
+# general stuff
 load_dotenv()
 
 client_id = os.getenv("CLIENT_ID")
